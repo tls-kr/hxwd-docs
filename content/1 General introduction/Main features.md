@@ -1,0 +1,11 @@
+- The Thesaurus Linguae Sericae (TLS) is designed as as a collaborative forum for discussion on the close reading of Chinese texts.
+- TLS provides a corpus of classical Chinese texts wherever possible with interlinear translations.
+- TLS links the texts incorporated with an analytic dictionary of the Chinese language.
+- TLS pays special attention to historical keywords.
+- TLS works towards a cross-cultural study of conceptual history.
+- TLS compiles a detailed synonym dictionary of Chinese.
+- TLS systematically organises the Chinese vocabulary in taxonomic hierarchies of synonym groups.
+- TLS develops a system of syntactic categories for the analysis of Chinese texts.
+- TLS develops a system of rhetorical devices for the analysis of Chinese texts.
+- TLS deploys a system of standard semantic relations, aiming to define the Chinese conceptual space as a relational space.
+- TLS seeks to make available up-to-date databases on historical phonology and the history of Chinese characters.

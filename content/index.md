@@ -3,7 +3,7 @@ title: Introduction to the TLS on the Web
 ---
 ![hxwd](hxwd.png)
 
-These pages contains information about how to use and contribute to the project. 
+These pages contains information about how to use and contribute to the [TLS - Thesaurus Linguae Sericae](https://hxwd.org) project. 
 
 There are four parts, which in its totality make up the contribution of this project to the study of Chinese culture. 
 
@@ -32,5 +32,3 @@ The interface offers views on the data stored in the database.  In this section,
 ## 4 [[Web Application]]
 The data are presented to the web browser through this application.  The application is written in [[XQuery]] on the server side, supported by [[Javascript]] for dynamic user interface elements in the browser. 
 
-
-## 5 Assets 
