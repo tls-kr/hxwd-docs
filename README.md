@@ -1,3 +1,12 @@
+# Manual for HXWD, the TLS on the Web
+
+This repository contains the documentation for the TLS/HXWD project, the website for which can be accessed at https://hxwd.org
+
+The documentation is edited in [Obsidian](https://obsidian.md) and prepared for publication using [Quartz](https://quartz.jzhao.xyz/), and served to the public using GitHub Pages. 
+
+This repository has been created using the process described in [Getting started](https://quartz.jzhao.xyz/); all content relevant to our project is in the `content` subfolder of this repository.
+
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
