@@ -1,7 +1,7 @@
 {}
 # The results of a full text search
 
-![search results](/images/search-results.png)
+![search results](search-results.png)
 ## Explanation for the numbered sections
 - ① The header line for the result display. The scope of the search, **texts** is shown in bold face, as well as the search term, **尚書大傳** in our example.
 - ② The summary of results and links section:
