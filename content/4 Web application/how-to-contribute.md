@@ -21,7 +21,7 @@ If you've created a new GitHub account and want to know what to do next, you can
 ### Simple changes
 
 If you want to make a small change like fixing a typo, the GitHub UI is the easiest way to get started.
-If you've found a typo on the page [The results of a full text search](search-results.md), for example, you can propose a fix as follows:
+If you've found a typo on the page [The results of a full text search](Search%20results.md), for example, you can propose a fix as follows:
 
 1. Sign in to [GitHub](https://github.com/)
 2. Navigate to [https://github.com/tls-kr/tls-kr.github.io](https://github.com/tls-kr/tls-kr.github.io)
