@@ -1,6 +1,8 @@
 # The results of a full text search
 
 ![search results](search-results.png)
+Try this search yourself:
+<a href="https://hxwd.org/search.html?textid=&query=尚書大傳&search-type=1&start=1" target="hxwd">Search for 尚書大傳 on HXWD</a>
 ## Explanation for the numbered sections
 1. The header line for the result display. The scope of the search, **texts** is shown in bold face, as well as the search term, **尚書大傳** in our example.
 2. The summary of results and links section:
