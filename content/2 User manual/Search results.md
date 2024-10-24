@@ -9,7 +9,7 @@
 	- This section offers also several links based on the search term.  For every character in the search term, a link to the [[Taxonomy of meanings]] is offered, as well as one to the [[Phonetic profile]]. To help with a quick orientation, these links have backgrounds in different colors, this color will appear on all pages for this type of link. 
 	- The following line has external links, with background in turquoise, the first two are to character dictionaries, followed by a word dictionary.
 	- The last line offers to [[Sort the results]] differently -- the default is by text date, as far it is registered in the system.
-3. The last of the external links (漢リポ) offers to search in the [[Kanseki Repository]], a sister project of the HXWD.
+3. The last of the external links (漢リポ) offers to [[Search in the Kanseki Repository]], a sister project of the HXWD.
 4. 
 5. 
 - ⑥

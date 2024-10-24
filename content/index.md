@@ -7,7 +7,7 @@ These pages contains information about how to use and contribute to the [TLS - T
 
 There are four parts, which in its totality make up the contribution of this project to the study of Chinese culture. 
 
-**How to contribute:** Contributions to this manual are welcome.  If you would like to contribute, all you will need is a GitHub account to get you started.  Details are explained in [How to contribute](how-to-contribute.md) 
+**Call for contributions:** Contributions to this manual are welcome.  If you would like to contribute, all you will need is a GitHub account to get you started.  Details are explained in [How to contribute](how-to-contribute.md) 
 
 ##  1 General introduction
 
