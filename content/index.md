@@ -29,6 +29,6 @@ The following topics are documenting the data format and application, you will o
 
 The interface offers views on the data stored in the database.  In this section, the format of the many different types of data that lie below this surface are documented. We talk about the data formats in more detail [here](3%20Format%20of%20the%20data/format.md) 
 
-## 4 [[Web Application]]
+## 4 Web Application
 The data are presented to the web browser through this application.  The application is written in [[XQuery]] on the server side, supported by [[Javascript]] for dynamic user interface elements in the browser. 
 
