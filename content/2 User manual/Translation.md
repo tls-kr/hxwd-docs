@@ -1,0 +1,4 @@
+The system tries to make working with translations as easy as possible.  Two of the three [[The textview page|main text panels]] can be used to show translations of different translators, but they can also be used to add new translations to the system. 
+The translations are maintained in [[Translation files|translation files]], one file for every translation. 
+
+If a user has the right to edit a translation file, a click in the panel that displays the translation will make the line receptive for a translation line.  The translation can now be entered and should be terminated by either pressing the 'tab' or the 'enter' key. The system will signal the successful storing of the line by a short popup message in the upper right corner of the screen. 
