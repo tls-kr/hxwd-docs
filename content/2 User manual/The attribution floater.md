@@ -5,7 +5,7 @@ Most of these have in common that they act on a specific line that has been the 
 # The many faces of the floater
 ## Listing by concept
 ![[floater-xue-by-concept.png]]
-This is the original and still most common display of the list of [[Syntactical Words]] (SW) for a given character. The first layer of this list gives only the character, the reading (pronunciation) relevant for this case and the [[Concept]] to which the SW under this heading have been assigned.  The exact content of this top line is given below in **section 6**.
+This is the original and still most common display of the list of [[Syntactical Word|Syntactical Words]] (SW) for a given character. The first layer of this list gives only the character, the reading (pronunciation) relevant for this case and the [[Concept]] to which the SW under this heading have been assigned.  The exact content of this top line is given below in **section 6**.
 
 ### Explanation for the numbered sections
 1. The search facility. While the floater is shown, the behavior of the search button has been changed in the way that instead of displaying the [[Search results|results on a separate page]], the results are [[Search results floater|displayed on the floater]], replacing the list of characters. 
