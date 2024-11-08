@@ -24,7 +24,7 @@ There is a wide variety of annotation types available, additionally, some of the
 
 The following annotation types are available:
 1. [[Concepts]]
-2. [[Translations]]
+2. [[Translation|Translations]]
 3. [[Word relations]]
 4. [[Rhetorical Devices]] and other observations.
 5. [[Citations]]:  A composite annotation of [[Syntactical Word]] at a specific [[Syntactical Word Locations|location]] in a text.  
