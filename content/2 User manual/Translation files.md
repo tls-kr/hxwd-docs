@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T16:37
+updated: 2024-10-28T15:17
+---
 Every translation is stored separately in a translation file, together with the other translation files in an area of the database set aside for this purpose.  The files are stored in sub-folders by language, since the internal processing required, for example for the search functionality, has to be fine-tuned for the language of the translation.  The system also allows the creation of 'comment files', which can carry comments to specific translations.
 
 It is thus important to indicate the **correct language** for a translation file and **not to change** this, once the file has been created. 

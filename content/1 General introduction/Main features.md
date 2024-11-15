@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T16:37
+updated: 2024-10-23T15:49
+---
 - The Thesaurus Linguae Sericae (TLS) is designed as as a collaborative forum for discussion on the close reading of Chinese texts.
 - TLS provides a corpus of classical Chinese texts wherever possible with interlinear translations.
 - TLS links the texts incorporated with an analytic dictionary of the Chinese language.

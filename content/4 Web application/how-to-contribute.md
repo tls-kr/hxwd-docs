@@ -1,5 +1,7 @@
 ---
 title: How to contribute to the documentation
+created: 2024-11-08T16:37
+updated: 2024-10-24T10:28
 ---
 
 # How to contribute to the documentation

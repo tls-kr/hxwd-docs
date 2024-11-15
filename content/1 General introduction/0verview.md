@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T16:37
+updated: 2024-11-08T14:43
+---
 While the name and emphasis of the project, as well as the practical ways to achieve its aims has been changed over the more than 30 years of its existence, a constant has been to allow access to accurate sources, but not insist on one single understanding or interpretation of these sources. Like on an archaeological excavation site, multiple of these layers might be in existence at the same time.
 
 If there is a leading principle guiding us here, one might look to Morimoto Kakuzō 森本角蔵, who in 1921 published a concordance to the four Confucian classics. As the first of his usage notes, he wrote 理屈よりも便利を主としました -- When in doubt, prefer convenience over principle. 

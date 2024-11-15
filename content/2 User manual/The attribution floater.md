@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T16:37
+updated: 2024-11-05T18:21
+---
 # The floater
 This is a panel that shows at the right hand part of the screen upon selecting one or more characters from a text line or clicking on the text line.  Originally, it was used to conveniently add attributions to the text, hence the name *Attribution floater*, which was originally coined by Tobias Wilke. 
 Since then, it acquired a number of other duties, so here we will simply call it *floater*.  Much of the interaction with the system happens in the floater, which can change shape in various ways, hence a number of different screenshots to explain.

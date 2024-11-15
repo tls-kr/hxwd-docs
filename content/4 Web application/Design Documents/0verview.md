@@ -1,5 +1,7 @@
 ---
 draft: "true"
+created: 2024-11-08T16:37
+updated: 2024-11-04T10:11
 ---
 
 The documents here are meant to illuminate the intentions behind the design decisions and the actual implementation.  Hopefully, they will also serve as a documentation and help in project archaeology, once that becomes necessary.

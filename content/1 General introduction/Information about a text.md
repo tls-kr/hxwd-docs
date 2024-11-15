@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T16:37
+updated: 2024-11-06T12:35
+---
 The information associated with a text, like [[Creator|creators]], [[Textdate|date of creation]], [[Edition|base edition used]], [[Source|provenance of the digital text]] is given on a best effort base.  We thrive to provide the sources of our information, and where applicable, the reasoning behind the decision. 
 
 Given the number of text and long history of the project, for many items this kind of detailed information is not available.  In these cases, we

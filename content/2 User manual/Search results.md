@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T16:37
+updated: 2024-10-24T15:09
+---
 # The results of a full text search
 
 ![search results](search-results.png)

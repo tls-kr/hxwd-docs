@@ -1,3 +1,7 @@
+---
+created: 2024-11-08T16:37
+updated: 2024-10-28T15:19
+---
 The system tries to make working with translations as easy as possible.  Two of the three [[The textview page|main text panels]] can be used to show translations of different translators, but they can also be used to add new translations to the system. 
 The translations are maintained in [[Translation files|translation files]], one file for every translation. 
 

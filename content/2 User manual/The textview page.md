@@ -1,5 +1,7 @@
 ---
 title: Textview
+created: 2024-11-08T16:37
+updated: 2024-10-25T12:04
 ---
 # Textview
 ## Overview
