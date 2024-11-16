@@ -1,13 +1,15 @@
 ---
 title: Introduction to the TLS on the Web
 created: 2024-11-08T16:37
-updated: 2024-10-25T12:04
+updated: 2024-11-16T14:08
 ---
 ![hxwd](hxwd.png)
 
 These pages contains information about how to use and contribute to the [TLS - Thesaurus Linguae Sericae](https://hxwd.org) project. 
 
 There are four parts, which in its totality make up the contribution of this project to the study of Chinese culture. 
+
+**Like the TLS itself, maybe even more, this is very much a work in progress - we hope it will be useful, but use it at your own risk!**
 
 **Call for contributions:** Contributions to this manual are welcome.  If you would like to contribute, all you will need is a GitHub account to get you started.  Details are explained in [How to contribute](how-to-contribute.md) 
 
@@ -22,7 +24,7 @@ Topics that will be covered here include:
 
 ## 2 User manual
 
-In this part, the interface elements and basic operations on the web pages are explained. New users are advised to start [here](start.md)
+In this part, the interface elements and basic operations on the web pages are explained. New users are advised to start [here](start.md), there will be links to the material above where required to provide the necessary background. 
 
 -------------------------------------------------------------------------------
 The following topics are documenting the data format and application, you will only need to look into this if you plan to contribute texts to the TLS or work on the application program.
