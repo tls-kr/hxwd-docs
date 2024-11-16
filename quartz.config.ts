@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "docs.hxwd.org",
-    ignorePatterns: ["private", "Templates", ".obsidian"],
+    ignorePatterns: ["private", "5 Assets/Templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
