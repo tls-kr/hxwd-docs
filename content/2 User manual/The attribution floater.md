@@ -1,6 +1,6 @@
 ---
 created: 2024-11-08T16:37
-updated: 2024-11-05T18:21
+updated: 2024-11-22T16:52
 ---
 # The floater
 This is a panel that shows at the right hand part of the screen upon selecting one or more characters from a text line or clicking on the text line.  Originally, it was used to conveniently add attributions to the text, hence the name *Attribution floater*, which was originally coined by Tobias Wilke. 
@@ -9,11 +9,11 @@ Most of these have in common that they act on a specific line that has been the 
 # The many faces of the floater
 ## Listing by concept
 ![[floater-xue-by-concept.png]]
-This is the original and still most common display of the list of [[Syntactical Word|Syntactical Words]] (SW) for a given character. The first layer of this list gives only the character, the reading (pronunciation) relevant for this case and the [[Concept]] to which the SW under this heading have been assigned.  The exact content of this top line is given below in **section 6**.
+This is the original and still most common display of the list of [[Syntactic Word|Syntactic Words]] (SW) for a given character. The first layer of this list gives only the character, the reading (pronunciation) relevant for this case and the [[Concept]] to which the SW under this heading have been assigned.  The exact content of this top line is given below in **section 6**.
 
 ### Explanation for the numbered sections
 1. The search facility. While the floater is shown, the behavior of the search button has been changed in the way that instead of displaying the [[Search results|results on a separate page]], the results are [[Search results floater|displayed on the floater]], replacing the list of characters. 
-2. Here we have the title for the floater, we are looking at existing Syntactical Words for 學. This is the term that has been used to evoke the floater, here it also serve as a link to a separate external dictionary. The button labeled 'WD' in turquoise  is also an external link, activating this button will execute a search on this term in [Wikidata](https://www.wikidata.org), which might or might not be useful.  It offers to link the WD item to the current term, which is a way to link from our system to the wild world of external data. 
+2. Here we have the title for the floater, we are looking at existing Syntactic Words for 學. This is the term that has been used to evoke the floater, here it also serve as a link to a separate external dictionary. The button labeled 'WD' in turquoise  is also an external link, activating this button will execute a search on this term in [Wikidata](https://www.wikidata.org), which might or might not be useful.  It offers to link the WD item to the current term, which is a way to link from our system to the wild world of external data. 
 3. The lookup domain is 'Core' for most purposes; we have a mechanism here to provide for specialized vocabulary that should not clutter up the core display.  At the moment, the only other domain is 'Medical'.
 4. As a reminder of what [[Segment|line]] we are talking about, here is the identifier and content of the line.
 5. This is a section that looks not much here, but for some users it can become quite crowded. The upper area of the box here is the bookmarking tool -- you can bookmark any location here if you want to find it again at some later point. The lower part has three items:
@@ -31,15 +31,15 @@ This is the original and still most common display of the list of [[Syntactical 
 #### Syntactic words for 學 / STUDY
 ![[floater-xue-study-25-sw-src.png]]
 
-Clicking on the button *25* in the first screen will open the display as shown here.  We can now look at the 25 syntactical words defined for the different usages and shades of meaning of 學 within the broad Concept of STUDY. 
-The section starts out with a general definition, that governs all specific usages. We show then, in alphabetical order of the [[Syntactical function]] the list of 25 SWs. There are two places were further interaction is possible:
-1. The *Use* button will register the current [[Syntactical Word Location|SWL]]  as a citation for this text location for this specific use.
+Clicking on the button *25* in the first screen will open the display as shown here.  We can now look at the 25 syntactic words defined for the different usages and shades of meaning of 學 within the broad Concept of STUDY. 
+The section starts out with a general definition, that governs all specific usages. We show then, in alphabetical order of the [[Syntactic function]] the list of 25 SWs. There are two places were further interaction is possible:
+1. The *Use* button will register the current [[Syntactic Word Location|SWL]]  as a citation for this text location for this specific use.
 2. The button *SWL:number* can be used to actually show the previously register citations. One example for this is shown below.
 #### Syntactic word locations for a **vt+V[0]**
 As promised, here are 9 SWLs.
 ![[floater-xue-study-swl-src.png]]
 Every attribution indicates the text with a shortened title and text section (as a link to the actual text location), followed by the line and one possible translation of this line, lastly there are again the initials of the contributor. 
-## Listing by syntactical function
+## Listing by syntactic function
 ![[floater-xue-by-syn-func-src.png]]
 ## Listing by frequency
 ![[floater-xue-by-freq-src.png]]

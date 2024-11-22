@@ -1,6 +1,6 @@
 ---
 created: 2024-11-08T16:37
-updated: 2024-11-08T14:43
+updated: 2024-11-22T16:51
 ---
 While the name and emphasis of the project, as well as the practical ways to achieve its aims has been changed over the more than 30 years of its existence, a constant has been to allow access to accurate sources, but not insist on one single understanding or interpretation of these sources. Like on an archaeological excavation site, multiple of these layers might be in existence at the same time.
 
@@ -31,6 +31,6 @@ The following annotation types are available:
 2. [[Translation|Translations]]
 3. [[Word relations]]
 4. [[Rhetorical Devices]] and other observations.
-5. [[Citations]]:  A composite annotation of [[Syntactical Word]] at a specific [[Syntactical Word Locations|location]] in a text.  
+5. [[Citations]]:  A composite annotation of [[Syntactil Word]] at a specific [[Syntactic Word Locations|location]] in a text.  
 
 
