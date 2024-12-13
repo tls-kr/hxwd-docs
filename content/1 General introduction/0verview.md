@@ -1,10 +1,10 @@
 ---
 created: 2024-11-08T16:37
-updated: 2024-12-13T14:05
+updated: 2024-12-13T14:08
 ---
 While the name and emphasis of the project, as well as the practical ways to achieve its aims has been changed over the more than 30 years of its existence, a constant has been to provide **access** to carefully curated sources, but not insist on **one single understanding** or interpretation of these sources. Like on an archaeological excavation site, multiple layers of interpretation might be in existence at the same time.
 
-If there had to be a leading principle guiding us here, one might look to Morimoto Kakuzō 森本角蔵, who in 1921 published a concordance to the four Confucian classics. As the first of his usage notes, he wrote 理屈よりも便利を主としました -- When in doubt, I preferred **convenience** over **principle**. 
+If there had to be a leading principle guiding us here, one might look to Morimoto Kakuzō 森本角蔵, who in 1921 published a concordance to the four Confucian classics called 四書索引. As the first of his usage notes, he gave 理屈よりも便利を主としました -- When in doubt, I preferred **convenience** over **principle**. 
 
 The list in [[Main features]] has been on earlier iterations of a TLS websites and is reproduced here for your reference - all of these statements are still not wrong, but they reflect the perspective of earlier stages of this project and not necessarily the current understanding. 
 
