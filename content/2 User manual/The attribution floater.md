@@ -1,11 +1,11 @@
 ---
 created: 2024-11-08T16:37
-updated: 2024-11-22T16:52
+updated: 2024-12-12T14:23
 ---
 # The floater
 This is a panel that shows at the right hand part of the screen upon selecting one or more characters from a text line or clicking on the text line.  Originally, it was used to conveniently add attributions to the text, hence the name *Attribution floater*, which was originally coined by Tobias Wilke. 
 Since then, it acquired a number of other duties, so here we will simply call it *floater*.  Much of the interaction with the system happens in the floater, which can change shape in various ways, hence a number of different screenshots to explain.
-Most of these have in common that they act on a specific line that has been the source of the selection, this is marked as **section 4** in the following image.  It gives in a greyish font the internal identifier ('At:')of the [[Segment|line]], followed by the textual content of the line. This identifier uniquely identifies this specific location in this text. When reporting errors in the system, you might be ask to provide this to allow narrow down the problem. 
+Most of these have in common that they act on a specific line that has been the source of the selection, this is marked as **section 4** in the following image.  It gives in a grayish font the internal identifier ('At:')of the [[Segment|line]], followed by the textual content of the line. This identifier uniquely identifies this specific location in this text. When reporting errors in the system, you might be ask to provide this to allow narrow down the problem. 
 # The many faces of the floater
 ## Listing by concept
 ![[floater-xue-by-concept.png]]
