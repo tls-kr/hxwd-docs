@@ -1,16 +1,16 @@
 ---
 created: 2024-11-08T16:37
-updated: 2024-12-12T16:15
+updated: 2024-12-13T14:05
 ---
-While the name and emphasis of the project, as well as the practical ways to achieve its aims has been changed over the more than 30 years of its existence, a constant has been to allow access to accurate sources, but not insist on one single understanding or interpretation of these sources. Like on an archaeological excavation site, multiple of these layers might be in existence at the same time.
+While the name and emphasis of the project, as well as the practical ways to achieve its aims has been changed over the more than 30 years of its existence, a constant has been to provide **access** to carefully curated sources, but not insist on **one single understanding** or interpretation of these sources. Like on an archaeological excavation site, multiple layers of interpretation might be in existence at the same time.
 
-If there is a leading principle guiding us here, one might look to Morimoto Kakuzō 森本角蔵, who in 1921 published a concordance to the four Confucian classics. As the first of his usage notes, he wrote 理屈よりも便利を主としました -- When in doubt, prefer convenience over principle. 
+If there had to be a leading principle guiding us here, one might look to Morimoto Kakuzō 森本角蔵, who in 1921 published a concordance to the four Confucian classics. As the first of his usage notes, he wrote 理屈よりも便利を主としました -- When in doubt, I preferred **convenience** over **principle**. 
 
-The list in [[Main features]] has been on earlier iterations of a TLS websites and is reproduced here for your reference - all of these statements are still accurate, but they reflect the perspective of earlier stages of this project. 
+The list in [[Main features]] has been on earlier iterations of a TLS websites and is reproduced here for your reference - all of these statements are still not wrong, but they reflect the perspective of earlier stages of this project and not necessarily the current understanding. 
 
-What we are trying to do here in these pages document the evolving project, which now can be characterized as an attempt to collaboratively and interactively explore the written cultural tradition of the East-Asian cultural hemisphere, as far as it is based on variations of pre-modern Chinese.
+What we are trying to do here in these pages is to document the evolving project, which now can be characterized as an attempt to collaboratively and interactively explore the written cultural tradition of the East-Asian cultural hemisphere, as far as it is based on variations of pre-modern Chinese.
 
-In an ideal world, this database would be compiled with the highest degree of confidence on each and every information item contained within, 
+In an ideal world, this database would be compiled with the highest degree of confidence on each and every information item contained within, but this would make it impossible to ever publish, so we have to live with the current *bricoulage* of bits and pieces, some elaborate and detailed, other rough and uneven with embarrassing gaps everywhere.  But since this is a collaborative project, everybody is invited to cure the ills detected -- for the delectation of all users.   
 
 Very broadly speaking, there are two main parts, that together make up the TLS: 
 1. A corpus of texts
