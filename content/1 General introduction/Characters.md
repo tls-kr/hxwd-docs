@@ -1,0 +1,9 @@
+---
+created: 2025-01-07T13:57
+updated: 2025-01-07T14:11
+---
+A character is the smallest unit of writing in the Chinese writing system, which is used for the texts in the TLS.  The exact shape of the character and which shape is considered the standard form might vary over different periods of time. For most of the historic period, movable type with its reproduction of exactly the same shape of a character has not been used.  Instead, woodblocks have been used for printing.  Such a printing block is created from a sheet of paper, on which the text has been written in clear form by a professional calligrapher.  This sheet is used to carve the wood, from which the printing is created.  Each individual instance of a character will therefore very slightly and this variation increases over time and even over different calligraphers at different locations, just in the same way as handwritten forms of alphabetic scripts show highly individual and regional differences. 
+
+The TLS allows to collect different shapes that are written for the same characters, but this is only feasible for characters that can be represented in encoded characters.  Such a difference can be registered at different levels:
+- When collating a text, variants of different editions can be registered.  This is of course not limited to variant character shapes, but includes all variants that are encountered.  If the fact that a character variant is registered is of importance, this can be added as a property of the variant.
+- If the variant is systematic and occurs, for example, in many or all texts of a specific period, this can be registered at the level of the [[Words]] for which a character has been used.  In most cases, this is not the case for **all** Words for which the character is used, but only a subset.  Of course, it is also possible that all Words are involved. 
