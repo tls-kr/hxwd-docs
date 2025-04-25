@@ -1,6 +1,6 @@
 ---
 created: 2025-04-25T11:31
-updated: 2025-04-25T12:05
+updated: 2025-04-25T13:14
 ---
 While I recognize that the current turn to AI is speeding up the waste of precious water and increases the dependency on non-sustainable sources of energy, and is often hallucinating and presenting its result eloquently and without shame, there is a pull from the sheer pleasure and convenience of having an astonishingly readable and in many cases justifiable translation of **any** passage of Classical Chinese appearing in an instance before your eyes!  You might have to try this to believe, so here is how you can do so.
 
@@ -12,7 +12,7 @@ While I recognize that the current turn to AI is speeding up the waste of precio
 
 This button is enabled for all users who are logged in by default, based on the following condition:
 
-The field *Creator* in the 'Edit translation file' dialog has to have the value 'TLS Project',
+The field *Creator* in the 'Edit [[Translation files|translation file]]' dialog has to have the value 'TLS Project',
 as shown here:
 
 ![[edit-translation-file-tls-project.png]]
