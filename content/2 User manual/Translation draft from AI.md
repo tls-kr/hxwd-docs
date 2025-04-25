@@ -1,10 +1,10 @@
 ---
 created: 2025-04-25T11:31
-updated: 2025-04-25T14:40
+updated: 2025-04-25T14:53
 ---
 While I recognize that the current turn to AI is speeding up the waste of precious water and increases the dependency on non-sustainable sources of energy, and although it is often hallucinating, still presenting its result eloquently and without any trace of shame, there is a pull from the sheer pleasure and convenience of having an astonishingly readable and in many cases justifiable translation of **any** passage of Classical Chinese appearing in an instance before your eyes!  You might have to try this to believe, so here is how you can do so.
 
-**Experimental** support for requesting a draft translation has been implemented in HXWD now (as of 2025-04-25). Since this is experimental, I tried to minimize the user interface elements that need to be implement to support this properly, and just made some arrangements behind the scenes, that would make a new button (with the label 'AI' to minimize screen space) appear on the header of a translation: 
+**Experimental** support for requesting a draft translation has been implemented in HXWD now (as of 2025-04-25). Since this is experimental, I tried to minimize the user interface elements that need to be implemented to support this properly, and just made some arrangements behind the scenes, that would make a new button (with the label 'AI' to minimize screen space) appear on the header of a translation: 
 
 ![[translation-with-ai-button.png]]
 
@@ -17,7 +17,11 @@ as shown here:
 
 ![[edit-translation-file-tls-project.png]]
 
-That is all for the moment.  With this in place, the system should display the blue 'AI' button for you. To be clear, this works only for *translation files*, not for *comment files*.
+To make this easier, the dialog comes now pre-loaded with this value.  
+
+This is all for the moment.  With the 'Creator' set like this, the system should display the blue 'AI' button for you. 
+
+To be clear, this works **only** for *translation files*, not for *comment files*.
 
 ## What happens when the AI button is clicked
 
