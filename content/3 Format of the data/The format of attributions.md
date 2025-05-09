@@ -1,8 +1,8 @@
 ---
 created: 2024-12-13T14:12
-updated: 2024-12-13T15:49
+updated: 2025-04-30T14:56
 ---
-Below is an example of the currently used internal format for attributions.   What this achieves is basically establishing a connection between a 'text line'  and an entry in the 'dictionary', more specifically, one 'sense' -- this is how the [[Syntactic Word]]s are actually stored.  Strictly speaking, only the information in the **\<link\>** element on line 4 is necessary, all other information items could be constructed from the database at the time of retrieval.  However, since the information in the database is constantly updated,  this might differ from what the user saw when creating this attribution, so it was deemed necessary to retain this information.  This also makes it easier to query the attributions as for example is done on the [[Citations]] screen.    In the database, these \<seg\> elements are in a XML file, which apart from the content marked with **tls:** conforms to the specifications of the TEI, with general information about the text, such as title and date of creation, available in the \<teiHeader\>.
+Below is an example of the currently used internal format for attributions.   What this achieves is basically establishing a connection between a word on a 'text line'  and an entry in the 'dictionary', more specifically, one 'sense' -- this is how the [[Syntactic Word]]s are actually stored.  Strictly speaking, only the information in the **\<link\>** element on line 4 is necessary, all other information items (except the metadata) could be constructed from the database at the time of retrieval.  However, since the information in the database is constantly updated,  this might differ from what the user saw when creating this attribution, so it was deemed necessary to retain this information.  This also makes it easier to query the attributions as for example is done on the [[Citations]] screen.    In the database, these \<seg\> elements are in a XML file, which apart from the content marked with **tls:** conforms to the specifications of the TEI, with general information about the text, such as title and date of creation, available in the \<teiHeader\>.
 
 ```xml
 <seg xml:id="T48n2020_CBETA_001-1006b0814.s2" xmlns="http://www.tei-c.org/ns/1.0">
@@ -39,6 +39,6 @@ I will give a short explanation of the items represented here. For the purpose o
 
 The example starts out with a **\<seg\>** element, which contains one **\<line\>** element and a **\<tls:ann\>** element.  If there were more annotations to this line, they would all be listed here, one after the other, in no specific order. 
 
-One annotation is contained in one single \<tls:ann\> element.  As explained above, all the information is also available elsewhere in the database and has simply been copied here, except for the last item \<tls:metadata\>, which has specific information on when and by whom this attribution was created.
+One annotation is contained in one single \<tls:ann\> element.  As explained above, all the information is also available elsewhere in the database and has simply been copied here, except for the last item \<tls:metadata\>, which has specific information on when and by whom this attribution was created.  The information about when and by whom this attribution was created is kept here, as well as [[comments]] about this attribution or [[tags]].  
 
-As the database evolves and the analytic possibilities are increasing, it might become necessary to add information specific to this instance to the annotation, rather than simply treating it as an instance of the [[Syntactic Word]] to which it is linked. 
+As the database evolves and the analytic possibilities are increasing, it might become necessary to add more information specific to this instance to the annotation, rather than simply treating it as an instance of the [[Syntactic Word]] to which it is linked. 
