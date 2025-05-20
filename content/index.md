@@ -1,7 +1,7 @@
 ---
 title: Introduction to the TLS on the Web
 created: 2024-11-08T16:37
-updated: 2025-05-09T11:56
+updated: 2025-05-20T11:51
 ---
 ![hxwd](hxwd.png)
 
