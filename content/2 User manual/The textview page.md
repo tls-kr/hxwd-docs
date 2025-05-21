@@ -1,13 +1,13 @@
 ---
 title: Textview
 created: 2024-11-08T16:37
-updated: 2024-10-25T12:04
+updated: 2025-05-21T16:41
 ---
 # Textview
 ## Overview
 This is the page where you most likely will spend most of the time of using this site.  A text is displayed by [[Segment|line]] (3. below), usually one page is made up of around 30 lines. 
 
-Selecting a term (one or more Chinese characters) will trigger the [[The attribution floater|floater]] to show up in the right part of the window. 
+Selecting a term (one or more Chinese characters) will trigger the [[Attribution floater|floater]] to show up in the right part of the window. 
 
 Have a look at this screenshot and the explanations below.
 

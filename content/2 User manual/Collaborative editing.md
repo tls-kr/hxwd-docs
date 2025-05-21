@@ -2,7 +2,7 @@
 title: Collaborative editing
 draft: "false"
 created: 2024-11-08T16:37
-updated: 2024-12-13T15:51
+updated: 2025-05-21T16:41
 ---
 # Collaborative editing
 
@@ -18,6 +18,6 @@ Most of the time, this does not pose a problem because there are thousands and t
 
 For **classroom** settings, however, this situation is **extremely likely**, if some text is translated together.  Users in such settings should thus get into the habit of frequently refreshing the page they are looking at together, in order to see the latest addition to a translation that is worked on together.  It would be best in such a situation to coordinate the editing and have one person entering the suggestions on behalf of all the contributors. 
 
-A slightly different way of working around this problem is by having each of the participants working on separate files.  In this case, the risk of overwriting each others translation is smaller.  The whole group could still get an overview of the different translations suggested for a line by clicking on the line of Chinese texts without selecting anything -- this will trigger a display of all translations that are registered in the system for that line as a popup in the [[The attribution floater|floater]], in this case the information will be displayed as it is current on the server at the time this request is issued. 
+A slightly different way of working around this problem is by having each of the participants working on separate files.  In this case, the risk of overwriting each others translation is smaller.  The whole group could still get an overview of the different translations suggested for a line by clicking on the line of Chinese texts without selecting anything -- this will trigger a display of all translations that are registered in the system for that line as a popup in the [[Attribution floater|floater]], in this case the information will be displayed as it is current on the server at the time this request is issued. 
 
 

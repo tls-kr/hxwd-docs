@@ -1,10 +1,10 @@
 ---
 created: 2025-04-25T11:31
-updated: 2025-04-25T14:53
+updated: 2025-05-20T14:07
 ---
 While I recognize that the current turn to AI is speeding up the waste of precious water and increases the dependency on non-sustainable sources of energy, and although it is often hallucinating, still presenting its result eloquently and without any trace of shame, there is a pull from the sheer pleasure and convenience of having an astonishingly readable and in many cases justifiable translation of **any** passage of Classical Chinese appearing in an instance before your eyes!  You might have to try this to believe, so here is how you can do so.
 
-**Experimental** support for requesting a draft translation has been implemented in HXWD now (as of 2025-04-25). Since this is experimental, I tried to minimize the user interface elements that need to be implemented to support this properly, and just made some arrangements behind the scenes, that would make a new button (with the label 'AI' to minimize screen space) appear on the header of a translation: 
+**Experimental** support for requesting a draft translation has been implemented in HXWD now (as of 2025-04-25, modified 2025-05-20). Since this is experimental, I tried to minimize the user interface elements that need to be implemented to support this properly, and just made some arrangements behind the scenes, that would make a new button (with the label 'AI' to minimize screen space) appear on the header of a translation: 
 
 ![[translation-with-ai-button.png]]
 
@@ -12,12 +12,12 @@ While I recognize that the current turn to AI is speeding up the waste of precio
 
 This button is enabled for all users who are logged in by default, based on the following condition:
 
-The field *Creator* in the 'Edit [[Translation files|translation file]]' dialog has to have the value 'TLS Project',
+The field *Creator* in the 'Edit [[Translation files|translation file]]' dialog initially has the value 'TLS Project',
 as shown here:
 
 ![[edit-translation-file-tls-project.png]]
 
-To make this easier, the dialog comes now pre-loaded with this value.  
+To activate the AI functionality, the blue AI button has to be pressed. This will change the creator to 'AI - Gemini', since Gemini is currently the only supported AI engine.  
 
 This is all for the moment.  With the 'Creator' set like this, the system should display the blue 'AI' button for you. 
 
