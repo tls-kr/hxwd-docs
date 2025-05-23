@@ -1,6 +1,6 @@
 ---
 created: 2025-05-22T11:20
-updated: 2025-05-22T13:03
+updated: 2025-05-23T14:15
 ---
 For most users, out of the thousands of texts available in TLS, only a handful of text is of specific interest.  You can tell the system, which texts are of specific interest to **you**[^1], by applying a numeric rating between 1 and 10 to the text.  These texts will appear in the **red star** <span class="bold" style="color:red;">★</span> menu and can also be prioritized in search results, so that texts you are interested in appear first.  Currently there is only one global list per user, but if necessary, project specific lists could also be considered.  If you need one, tell us in the comments below. 
 
@@ -14,9 +14,9 @@ The rectangular area labelled with (1) in the above screenshot is the menu bar, 
 ![[source-information.png]]
 More about this [[Information about a text|information]] is available elsewhere, here we are only concerned with the fiel 'Rating'. At the moment, the text is not rated.  If you move your mouse above the stars, you will see a rating appear, depending on the position of your mouse. When you see the desired rating, you can click and will then register the rating.  As a consequence, this text will appear in the red star menu[^2].  The list is sorted by rating with the highest rated texts coming first.  This allows you not only to select the texts of interest, but also give them an implicit order. 
 Once you lose interest in the text, you can remove the text by using the (-) button to the left of the stars. 
-## Rating a text from [[Search results]]
+## Rating a text from the [[TLS Text list|catalog]]
 
---to be done--
+The [[TLS Text list]] also provides access to this same information and can also be used to rate the text. 
 
 [^1]: It goes without saying that this is a purely personal setting with no visibility or relevance to other users:-)
 
